@@ -1,4 +1,5 @@
 # To-Do List CLI App
 
 Features implemented:
-- (none yet)
+- Add Task
+- Delete Task
